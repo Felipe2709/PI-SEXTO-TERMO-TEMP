@@ -78,9 +78,9 @@ Execução do script que se conecta ao MongoDB via `pymongo` e filtra em tempo r
 python relatorio_leituras.py
 ```
 
-> **[INSERIR PRINT 1 AQUI: Terminal exibindo as leituras de Temperatura e Umidade com remetente !8fa724e8]**
->
-> *Exemplo de saída real obtida:*
+![Leituras de Temperatura e Umidade no MongoDB](print_leituras.png)
+
+> **Figura 1:** Terminal exibindo as leituras de Temperatura e Umidade recebidas do nó Meshtastic `!8fa724e8` e gravadas no MongoDB.
 > ```text
 > --------------------------------------------------------------------
 > Data / Hora (Brasília) | Temp (°C)  | Umidade (%)  | Rádio     
